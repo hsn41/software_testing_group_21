@@ -64,6 +64,13 @@ class linAlgebraTesting(unittest.TestCase):
     # high power of matrix
     # def test_matrix_complex_power(self):
     #     np.testing.assert_array_equal()
+    
+    # Member 2 can work on datetime testing 
+    # Member 3 can work on mulitiarray dimensions
+    # Member 4 can work on array prints
+    # Member 5 can work on numerics
+
+    
 
 if __name__ == "__main__":
     unittest.main()
